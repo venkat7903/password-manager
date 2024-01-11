@@ -1,0 +1,15 @@
+.no-passwords-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.no-passwords-img {
+  width: 70%;
+  max-width: 300px;
+}
+
+.no-passwords-desc {
+  color: #fff;
+  font-size: 20px;
+}
